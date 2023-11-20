@@ -10,7 +10,7 @@ Customizable Architectures: Experiment with different DNN and CNN architectures 
 **Data Collection:**
 Develop methods for collecting and preprocessing data, crucial for training robust models.
 
-**Simulation Testing: **
+**Simulation Testing:**
 Evaluate the performance of your models in the Udacity Self-Driving Car Simulator across various scenarios.
 
 
