@@ -195,7 +195,6 @@ def main():
         print(f'learningRate := {learningRate}')
         print('-' * 30)
     
-        # Continue with the rest of your code using these parameters
         data = loadData(dataDir, testSize)
         model = buildModel(keepProb)
         trainModel(model, dataDir,testSize ,nbEpoch, samplesPerEpoch, batchSize, saveBestOnly, learningRate)
